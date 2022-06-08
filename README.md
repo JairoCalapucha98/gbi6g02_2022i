@@ -8,5 +8,4 @@ Inserte un logo
 Inserte un video de Youtube (sobre cómo ver las propiedades del computador )
 
 ## DETALLES DE PROGRAMAS 
-
-
+# EXAMEN P1
